@@ -23,7 +23,5 @@ generation
 
 
     give me 3 detailed prompts keyword in English exactly about :
-    -red and yellow
-    -The fortune teller has a captivating presence inherited from her ancestors. She is well-versed in astrology, tarot, and other mystical practices, with a deep understanding of the spiritual realm. Her personality is calm, composed, and confident, and she is able to put others at ease. She values individuality and encourages others to embrace their unique qualities. Her bohemian vibe is reflected in her flowing clothing, vibrant colors, and unique accessories
-    -(masterpiece:1.4), (extremely detailed CG:1.4), (extremely detailed hand:1.4), normal hand, (best quality:1.4), (illustration), five fingered hand, (bohemian:1.2) fashion style, (vibrant:1.1) colors, (flowy:1.2) fabrics, (floral:1.1) prints, (ethnic:1.1) patterns, (beaded:1.2) accessories, (unique:1.2) jewelry, (earthy:1.1) tones, (natural:1.2) settings, (desert:1.1) landscapes, (handmade:1.2) decor, (ethnic:1.1) textiles
+   
 
