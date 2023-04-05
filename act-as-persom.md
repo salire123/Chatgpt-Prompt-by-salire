@@ -1,6 +1,5 @@
 # chatgpt 
-## chatgpt 
-### game
+## act-as-persom
 This is a template for creating a chatbot that can mimic a specific person. You need to replace
 
     {{{job}}},{{{name}}},{{{describe he/she/it}}},{{{introduce}}}
