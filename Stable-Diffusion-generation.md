@@ -20,11 +20,11 @@ this is a prompt for chatgpt to generate art with in the style of Stable Diffusi
 stable diffusion is a AI art generation model similar to DALLE-2.
 if you want to try, you can try out using stable diffusion webui,you can install it on your computer, here is the github link:
 
-    https://github.com/AUTOMATIC1111/stable-diffusion-webui
+https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 for the example image, i use "AbyssOrangeMix2_sfw.safetensors" to generate it. here is the civitai link:
 
-    https://civitai.com/models/4437/abyssorangemix2-sfw
+https://civitai.com/models/4437/abyssorangemix2-sfw
 
 
 ---
