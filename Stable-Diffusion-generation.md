@@ -161,6 +161,6 @@ Negative prompt:
 
     (worst quality, low quality:1.4),(face mask),text,face mask,face cover,face heart,fused fingers,heart,
 
-1:![example image 1](image\1.png)
-2:![example image 2](image\2.png)
-3:![example image 3](image\3.png)
+1:![example image 1](https://github.com/salire123/Chatgpt-Prompt-by-salire/blob/main/image/1.png?raw=true)
+2:![example image 2](https://github.com/salire123/Chatgpt-Prompt-by-salire/blob/main/image/2.png?raw=true)
+3:![example image 3](https://github.com/salire123/Chatgpt-Prompt-by-salire/blob/main/image/3.png?raw=true)
