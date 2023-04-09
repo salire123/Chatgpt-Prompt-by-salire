@@ -4,10 +4,10 @@ This repository contains a collection of Chatgpt prompts created by salire. Chat
 
 ## Stable Diffusion Generation
 
-    you can use this prompt to generate stable diffusion prompts.
-    to check out this prompt,  ([click on me ](https://github.com/salire123/Chatgpt-Prompt-by-salire/blob/main/Stable-Diffusion-generation.md)) :D
+you can use this prompt to generate stable diffusion prompts.
+to check out this prompt,  ([click on me ](https://github.com/salire123/Chatgpt-Prompt-by-salire/blob/main/Stable-Diffusion-generation.md)) :D
 
 ## Acting as a Person
 
-    you can use this prompt to generate prompts that act as a person.
-    to check out this prompt,  ([click on me ](https://github.com/salire123/Chatgpt-Prompt-by-salire/blob/main/act-as-persom.md)) :D
+you can use this prompt to generate prompts that act as a person.
+to check out this prompt,  ([click on me ](https://github.com/salire123/Chatgpt-Prompt-by-salire/blob/main/act-as-persom.md)) :D
