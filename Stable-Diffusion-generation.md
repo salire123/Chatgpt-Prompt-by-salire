@@ -1,4 +1,4 @@
-# Stable Diffusion generation
+# Stable Diffusion generation 
 ---
 ## Remind 
 if you not want to generate Erotic, Violent, Bloody, Antisocial content, you can delete the this lines in the prompt:
