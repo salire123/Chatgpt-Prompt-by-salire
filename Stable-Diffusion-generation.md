@@ -24,7 +24,11 @@ https://civitai.com/models/4437/abyssorangemix2-sfw
 ---
 
 ## how to use
-to use it you can use chatgpt to generate, you need to change the {{{here is what you think the art should be about}}} to what you want the art to be about.
+to use it you can use chatgpt to generate, you need to change the 
+
+    {{{here is what you think the art should be about}}} 
+
+to what you want the art to be about.
 
 ---
 ## prompt
