@@ -7,7 +7,11 @@ i can`t use this prompt on the web version of chatgpt, when testing it output :
 i have only tested it on the  of https://freechatgpt.chat/ with the chatgpt3.5 api
 
 ## Summary
-this is a prompt for chatgpt to generate art with in the style of Stable Diffusion
+Are you tired of struggling to come up with new ideas for your art? Do you wish there was an easier way to generate prompts? Then fear not! With ChatGPT, you can now effortlessly create art with the Stable Diffusion prompt.
+
+Simply input your desired art, and ChatGPT will generate a custom prompt for you to use. Whether you're a experience or just starting out, ChatGPT and Stable Diffusion makes it easy to unleash your creativity and bring your ideas to life.
+
+Say goodbye to creative blocks and hello to endless possibilities. Try this prompts today and see what it can create.
 
 ## what is Stable Diffusion
 
